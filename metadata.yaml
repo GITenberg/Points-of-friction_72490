@@ -1,0 +1,35 @@
+_repo: Points-of-friction_72490
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Repplier, Agnes
+    birthdate: 1855
+    deathdate: 1950
+    gutenberg_agent_id: '6888'
+    url: http://www.gutenberg.org/2009/agents/6888
+    wikipedia: https://en.wikipedia.org/wiki/Agnes_Repplier
+description: ''
+gutenberg_issued: '2023-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72490'
+language: en
+pgterms:marc904: https://archive.org/details/pointsoffriction00repp/page/n7/mode/2up
+pgterms:marc905: 20230408164355repplier
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aBoston :$bHoughton Mifflin Company, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays -- 20th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Living in history -- Dead authors -- Consolations of the conservative
+  -- The cheerful clan -- The beloved sinner -- The virtuous Victorian -- Woman enthroned
+  -- The strayed prohibitionist -- Money -- Cruelty and humour.
+title: Points of friction
+url: http://www.gutenberg.org/ebooks/72490
